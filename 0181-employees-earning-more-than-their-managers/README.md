@@ -49,11 +49,15 @@ Employee table:
 - This problem requires comparing an employee's salary with their manager's salary.
 
 - Since both pieces of information are stored in the same table, we use a Self JOIN.
+  
      E1 acts as the manager record.
+  
      E2 acts as the employee record.
 
 - E1.id = E2.managerId connects each employee to their corresponding manager.
 
 - After establishing the relationship, we compare salaries using:
+  
       E2.salary > E1.salary
+  
 If the employee earns more than their manager, we return the employee's name.
