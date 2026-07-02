@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/meghaharikumarp/leetcode-solutions/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/meghaharikumarp/leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/meghaharikumarp/leetcode-solutions/tree/master/0197-rising-temperature) |
+| [0511-game-play-analysis-i](https://github.com/meghaharikumarp/leetcode-solutions/tree/master/0511-game-play-analysis-i) |
 | [0584-find-customer-referee](https://github.com/meghaharikumarp/leetcode-solutions/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/meghaharikumarp/leetcode-solutions/tree/master/0620-not-boring-movies) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/meghaharikumarp/leetcode-solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
